@@ -31,7 +31,7 @@
 
 	<!--@chalma стили для карты 11-->
 	<script type="text/javascript" src="js/map-script.js"></script>
-	<!--<link rel="stylesheet" type="text/css" href="css/slick/slick.css">
+	<!--<link rel="stylesheet" type="text/css" href="css/slick/slick.css" 111>
 	<link rel="stylesheet" type="text/css" href="css/slick/slick-theme.css">-->
 	<!--@chalma Leaflet-->
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
