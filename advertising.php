@@ -47,10 +47,12 @@
 						<div class="numbers_item_desc">Магазинов и ресторанов</div>
 					</div>
 					-->
+					<!--
 					<div class="numbers_item">
 						<div class="numbers_item_number">Более 50 000</div>
 						<div class="numbers_item_desc">Покупателей ежегодно</div>
 					</div>
+					-->
 				</div>
 				<div class="your_manager">
 					<div class="manager_title">

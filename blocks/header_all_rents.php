@@ -127,7 +127,7 @@
 								<li><a href="advertising.php">Реклама в ТРЦ</a></li>
 								<li><a href="scheme.php">Схема ТРЦ</a></li>
 								<li><a href="contacts.php">Контакты</a></li>
-								<li><a href="vacancies.php">Вакансии</a></li>
+								<li><a href="https://rabota.sakh.com/company/alley">Вакансии</a></li>
 							</ul>
 						</div>
 						
@@ -184,7 +184,7 @@
 								<li><a class="menu__item" href="advertising.php">Реклама в ТРЦ</a></li>
 								<li><a class="menu__item" href="scheme.php">Схема ТРЦ</a></li>
 								<li><a class="menu__item" href="contacts.php">Контакты</a></li>
-								<li><a class="menu__item" href="vacancies.php">Вакансии</a></li>
+								<li><a class="menu__item" href="https://rabota.sakh.com/company/alley">Вакансии</a></li>
 					</ul>
 				</div>
 			</div>
@@ -202,7 +202,7 @@
 								<li><a href="advertising.php">Реклама в ТРЦ</a></li>
 								<li><a href="scheme.php">Схема ТРЦ</a></li>
 								<li><a href="contacts.php">Контакты</a></li>
-								<li><a href="vacancies.php">Вакансии</a></li>
+								<li><a href="https://rabota.sakh.com/company/alley">Вакансии</a></li>
 							</ul>
 						</div>
 

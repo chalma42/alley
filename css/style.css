@@ -5204,7 +5204,7 @@ input[type="submit"]:hover {
 }
 .mobile_header {
 	display: none;
-	height: 65%;
+	height: max-content;
     position: fixed;
     z-index: 10;
     background: #fff;
@@ -9733,6 +9733,9 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	.filter {
 		width: 25%;
 	}
+	.alley .flex {
+		padding: 0%;
+	}
 	/*@chalma стили карты*/
 	.map-block {
 		width: 547px;
@@ -11259,7 +11262,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		padding: 3%;
 	}
 	header .flex {
-		justify-content: space-between;
+		justify-content: space-around;
 		padding: 0px;
 	}
 	.header_other .phone {

@@ -339,7 +339,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_BigBen.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/BigBen_Logo.png" width="100%">
+										<img src="img1/BigBen_Logo.png">
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -395,26 +395,7 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
-								<div class="all_rents_page_item">
-									<a href="rent_CheeseHouse.php">
-									<div class="all_rents_page_item_img">
-										<img src="img1/CheeseHouse_Logo.png" width="100%">
-									</div>
-									<div class="all_rents_page_item_icons">
-										<ul>
-											<li><img src="img/icons/rent_icon1.png"></li>
-											<li><img src="img/icons/rent_icon2.png"></li>
-											<li><img src="img/icons/rent_icon3.png"></li>
-											<li><img src="img/icons/rent_icon4.png"></li>
-											<li><img src="img/icons/rent_icon5.png"></li>
-										</ul>
-									</div>
-									<div class="all_rents_page_item_title">Сырный Дом Сахалин</div>
-									<div class="all_rents_page_item_desc">Продукты</div>
-									</a>
-								</div>
-							</li>
+							
 							<li class="mix radio1">
 								<div class="all_rents_page_item">
 									<a href="rent_children_land.php">
@@ -451,7 +432,7 @@
 										</ul>
 									</div>
 									<div class="all_rents_page_item_title">Coffee Rum</div>
-									<div class="all_rents_page_item_desc">Кофейня</div>
+									<div class="all_rents_page_item_desc">Кофе и другие напитки</div>
 									</a>
 								</div>
 							</li>
@@ -459,7 +440,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_CraftBear.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/CRAFT BEER_Logo.png" width="100%">
+										<img src="img1/CRAFT-BEER_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -479,7 +460,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_CranchCofe.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/CranchCofe_Logo.png" width="100%">
+										<img src="img1/CranchCofe_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -559,7 +540,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Ekleshu.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Ekleshu_Logo.png" width="100%">
+										<img src="img1/Ekleshu_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -570,7 +551,7 @@
 											<li><img src="img/icons/rent_icon5.png"></li>
 										</ul>
 									</div>
-									<div class="all_rents_page_item_title">Эклеры</div>
+									<div class="all_rents_page_item_title">Эклешу</div>
 									<div class="all_rents_page_item_desc">Кондитерские изделия</div>
 									</a>
 								</div>
@@ -859,7 +840,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_MiliJoys.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/MiliJoys_Logo.png" width="100%">
+										<img src="img1/MiliJoys_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1219,7 +1200,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_WakeUpCoffe.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Wuc_Logo.png" width="100%">
+										<img src="img1/Wuc_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1239,7 +1220,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_XOne.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/XOne_Logo.png" width="100%">
+										<img src="img1/XOne_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1279,7 +1260,7 @@
 								<div class="all_rents_page_item alizarin">
 									<a href="rent-apteka.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/LogoApteka.JPG" width="98%">
+										<img src="img1/LogoApteka.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1379,7 +1360,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent-Mirene.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Mirene_Logo.png" width="98%">
+										<img src="img1/Mirene_Logo.png">
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>

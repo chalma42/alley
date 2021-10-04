@@ -514,7 +514,22 @@
 								<img src="img/slider/3/1.jpg">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/slider/3/1.jpg">
+								<img src="img/slider/3/2.jpg">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slider/3/3.jpg">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slider/3/4.jpg">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slider/3/5.jpg">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slider/3/6.jpg">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slider/3/7.jpg">
 							</div>
 							
 						    

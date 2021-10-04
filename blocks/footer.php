@@ -38,7 +38,7 @@
 								<li><a href="advertising.php">Реклама в ТРЦ</a></li>
 								<li><a href="scheme.php">Схема ТРЦ</a></li>
 								<li><a href="contacts.php">Контакты</a></li>
-								<li><a href="vacancies.php">Вакансии</a></li>
+								<li><a href="https://rabota.sakh.com/company/alley">Вакансии</a></li>
 							</ul>
 							<div style="display: flex;justify-content: space-between;align-items: center;">
 								<a href="https://www.instagram.com/alleym.ru/" target="_blank" class="footer_insta"></a>
