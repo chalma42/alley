@@ -432,7 +432,7 @@
 										</ul>
 									</div>
 									<div class="all_rents_page_item_title">Coffee Rum</div>
-									<div class="all_rents_page_item_desc">Кофе и другие напитки</div>
+									<div class="all_rents_page_item_desc">кафе быстрого питания: нетрадационные блины, напитки, салаты.</div>
 									</a>
 								</div>
 							</li>
@@ -472,7 +472,7 @@
 										</ul>
 									</div>
 									<div class="all_rents_page_item_title">Crunch Cafe</div>
-									<div class="all_rents_page_item_desc">Кофейня</div>
+									<div class="all_rents_page_item_desc">кафе быстрого питания: нетрадационные блины, напитки, салаты.</div>
 									</a>
 								</div>
 							</li>
