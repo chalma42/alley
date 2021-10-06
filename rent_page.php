@@ -91,7 +91,7 @@
 			<div class="container">
 				<a href="#schema"><img src="img/link_icons/schema.png"> Схема ТРЦ</a>
 				<!--<a href="#grafik"><img src="img/link_icons/grafik.png"> График посещаемости</a>-->
-				<a href="#gastro"><img src="img/link_icons/gastro.png"> Гастромаркет</a>
+				<!--<a href="#gastro"><img src="img/link_icons/gastro.png"> Гастромаркет</a>-->
 				<a href="#foodcort"><img src="img/link_icons/foodcort.png"> фудкорт</a>
 				<a href="#saling"><img src="img/link_icons/vesh.png"> торговля и услуги</a>
 				<a href="#bank"><img src="img/link_icons/bankomat.png"> вендинг и банкоматы</a>

@@ -577,7 +577,7 @@ audio.active {
 }
 .menu_list li a.rents_count_block {
 	position: relative;
-	bottom: -4px;
+	bottom: -8px;
 }
 .menu_list li a span.rents_count {
 	font-size: 23px;
@@ -924,7 +924,7 @@ audio.active {
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 15px;
 	color: #6B6B6B;
 	display: inline-block;
@@ -2174,7 +2174,7 @@ audio.active {
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 15px;
 	text-transform: uppercase;
 	color: #E02749;
@@ -3683,7 +3683,7 @@ audio.active {
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 18px;
 	color: #000000;
 	margin-bottom: 20px;
@@ -3853,6 +3853,10 @@ audio.active {
 }
 .arent_page .advantage .tabs img {
 	margin-bottom: 12px;
+	transition: all 0.3s;
+}
+.arent_page .advantage .tabs img:hover {
+	transform: scale(1.2);
 }
 .arent_page .advantage .tabs .side {
 	font-family: Montserrat;
@@ -4683,6 +4687,15 @@ audio.active {
 	width: 16%;
 	text-align: center;
 	margin-bottom: 40px;
+	font-family: Montserrat;
+	font-weight: 600;
+	
+}
+.gastromarket.index_page .items.kitchens img {
+	transition: all 0.5s;
+}
+.gastromarket.index_page .items.kitchens img:hover {
+	transform: rotateY(180deg);
 }
 .scheme.index_page {
 	margin-bottom: 60px;
@@ -7260,7 +7273,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		padding-top: 31px;
 	}
 	.arent_page .links a {
-		font-size: 12px;
+		font-size: 16px;
 	}
 	.is-sticky .logo {
 		width: 160px;
@@ -7276,7 +7289,15 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	.header_menu ul li {
 		margin-right: 8px;
 	}
-	
+	.menu_list {
+		margin-left: 170px;
+	}
+	.menu_list li {
+		margin-right: 58px;
+	}
+	.footer .menu_list li {
+		margin-right: 25px;
+	}
 }
 
 /*Adaptive*/
@@ -7548,7 +7569,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		margin-bottom: 10px;
 	}
 	.footer .second_menu ul li a {
-		font-size: 13px;
+		font-size: 18px;
 		line-height: 16px;
 	}
 	.footer .second_menu ul li {
@@ -8115,9 +8136,6 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		width: 359px;
 		height: 284px;
 	}
-	.arent_page .advantage .tabs img {
-		height: 80px;
-	}
 	.arent_page .advantage .tabs .side {
 		font-size: 16px;
 		line-height: 22px;
@@ -8197,6 +8215,8 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		font-size: 24px;
 		line-height: 29px;
 	}
+	
+	
 }
 @media(max-width: 1399px){ 
 	.poster_main .container, 
@@ -8206,6 +8226,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		padding: 1%;
 
 	}
+	
 }
 @media(max-width: 1199px){ 
 	body.main_body {
@@ -8336,7 +8357,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		padding-left: 10px;
 	}
 	.footer .menu_list li {
-		margin-right: 55px;
+		margin-right: 25px;
 		padding: 3px 0px;
 	}
 	.footer .footer_side {
@@ -8581,6 +8602,13 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	.header_menu ul li a {
 		font-size: 11px;
 	}
+	.menu_list li {
+		margin-right: 45px;
+	}
+	.cd-gallery li {
+		margin-right: 1em !important;
+		width: 22% !important;
+	}
 	
 }
 @media(max-width: 1024px){
@@ -8691,6 +8719,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	}
 	.all_rents_page .all_rents_page_item {
 		width: 100%;
+		height: 100%;
 	}
 	.all_rents_page .all_rents_page_item.empty {
 		height: max-content;
@@ -9406,13 +9435,21 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		justify-content: center;
 	}
 	.arent_page .links a {
-		font-size: 10px;
+		font-size: 11px;
 		margin-bottom: 5px;
 	}
 	.footer .address {
 		text-align: center;
 	}
 
+}
+@media(max-width: 991px){ 
+	.menu_show_all {
+		display: none;
+	}
+	.all_rents_page .all_rents_page_item_img img {
+		width: 95%;
+	}
 }
 
 @media(max-width: 767px){
@@ -10286,7 +10323,7 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 		padding-top: 5px;
 	}
 	.cd-gallery li {
-		width: 30% !important;
+		width: 45% !important;
 		margin-right: 9px;
 	}
 	.your_manager {
@@ -10353,6 +10390,9 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	}
 	.contacts_page .address {
 		font-size: 16px;
+	}
+	.all_rents_page .all_rents_page_item_img img {
+		width: auto;
 	}
 
 
@@ -11377,9 +11417,20 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	ul.cd-filters {
 		display: flex;
 		justify-content: space-around;
+		flex-wrap: wrap;
+    	line-height: 2;
+	}
+	ul.cd-filters li {
+		margin-right: 5px;
+	}
+	.all_rents_page .all_rents_page_item_title {
+		font-size: 22px;
+	}
+	.all_rents_page .all_rents_page_item_desc {
+		font-size: 18px;
 	}
 	.cd-gallery li {
-		width: 48% !important;
+		width: 98% !important;
 		margin-right: 0px;
 	}
 	.filter form {
@@ -11446,5 +11497,8 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 	}
 	.footer .time span {
 		font-size: 16px;
+	}
+	.all_rents_page .all_rents_page_item_img img {
+		width: auto;
 	}
 }

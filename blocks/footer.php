@@ -23,6 +23,9 @@
 									<a href="all_rents.php#entertainments" onClick="refreshPage('all_rents.php#entertainments')"><img src="img/menu8.png" > Развлечения</a>
 								</li>
 								<li>
+									<a href="all_rents.php#products" onClick="refreshPage('all_rents.php#products')"><img src="img/menu13.svg" > Продукты</a>
+								</li>
+								<li>
 									<a href="all_rents.php#all" onClick="refreshPage('all_rents.php#all')" class="rents_count_block"><span class="rents_count"></span> ВСЕ</a>
 								</li>
 								<li>

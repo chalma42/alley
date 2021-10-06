@@ -187,9 +187,10 @@ xgallery
 
 .cd-gallery li {
   margin-bottom: 1.6em;
+  margin-right: 1.6em;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
   display: none;
-  width: 20%;
+  width: 22%;
 }
 .cd-gallery li.gap {
   /* used in combination with text-align: justify to align gallery elements */
@@ -209,6 +210,10 @@ xgallery
   .cd-gallery ul {
     text-align: justify;
     margin-block-start: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
   }
   .cd-gallery ul:after {
     content: "";

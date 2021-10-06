@@ -502,6 +502,7 @@
 	<section class="alley_bottom _anim-items">
 		<div class="container">
 			<div class="flex">
+				<!--
 				<div class="alley_bottom_item">
 					<img src="img/gastro_icons/key.png"><br>
 					<a href="rent_page.php">Аренда</a>
@@ -517,6 +518,29 @@
 				<div class="alley_bottom_item">
 					<img src="img/gastro_icons/lav.png"><br>
 					<a href="all_rents.php">Арендаторы</a>
+				</div>
+				-->
+				<div class="alley_bottom_item" >
+					<a href="rent_page.php">
+						<img src="img/gastro_icons/key.png"><br>
+						Аренда
+					</a>
+				</div>
+				<div class="alley_bottom_item">
+					<a href="scheme.php">
+						<img src="img/gastro_icons/scheme.png"><br>
+						Схема ТРЦ
+					</a>
+				</div>
+				<div class="alley_bottom_item">
+					<a href="poster.php"><img src="img/gastro_icons/board.png"><br>
+						Афиша
+					</a>
+				</div>
+				<div class="alley_bottom_item">
+					<a href="all_rents.php"><img src="img/gastro_icons/lav.png"><br>
+						Арендаторы
+					</a>
 				</div>
 			</div>
 		</div>

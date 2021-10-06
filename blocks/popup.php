@@ -120,3 +120,28 @@
         	Наш менеджер свяжется<br> с Вами в течение рабочего дня
         </div>
     </div>
+
+	<div id="popup-guestCard" style="display: none;">
+        <div class="title">Поулчить карту гостя</div>
+        <form class="vacan">
+        	<div class="input_wrapper">
+        		<input type="text" name="name" placeholder="ФИО*">
+        		<span class="label_err">Введите имя</span>
+        	</div>
+        	<div class="input_wrapper">
+        		<input type="text" name="phone" placeholder="+7 (***)-***-**-**  *">
+        		<span class="label_err">Введите телефон</span>
+        	</div>
+        	<div class="input_wrapper">
+        		<input type="text" name="E-mail" placeholder="E-mail">
+        		<span class="label_err">Введите телефон</span>
+        	</div>
+        	
+        	<div class="submit_wrapper">
+        		<input type="submit" value="Отправить">
+        	</div>
+        </form>
+        <div class="thanks">
+        	Наш менеджер свяжется<br> с Вами в течение рабочего дня
+        </div>
+    </div>

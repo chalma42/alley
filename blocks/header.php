@@ -62,7 +62,7 @@
   top: -3000px;
   right: 0px;
   width: 300px;
-  height: 250px;
+  height: 275px;
   margin: 0;
   padding: 45px 0;
   list-style: none;
@@ -165,6 +165,9 @@
 						<a href="all_rents.php#entertainments"><img src="img/menu8.png" > Развлечения</a>
 					</li>
 					<li>
+						<a href="all_rents.php#products" ><img src="img/menu13.svg" > Продукты</a>
+					</li>
+					<li>
 						<a href="all_rents.php#all" class="rents_count_block" ><!--<span class="rents_count">137</span>--> ВСЕ</a>
 					</li>
 					<li>
@@ -185,6 +188,7 @@
 								<li><a class="menu__item" href="scheme.php">Схема ТРЦ</a></li>
 								<li><a class="menu__item" href="contacts.php">Контакты</a></li>
 								<li><a class="menu__item" href="https://rabota.sakh.com/company/alley">Вакансии</a></li>
+								<li><a href="#" class="menu__item"><img src="img/menu12.png"> поиск арендатора</a></li>
 					</ul>
 				</div>
 			</div>
@@ -219,6 +223,9 @@
 								</li>
 								<li>
 									<a href="all_rents.php#entertainments"><img src="img/menu8.png"> Развлечения</a>
+								</li>
+								<li>
+									<a href="all_rents.php#products"><img src="img/menu9.png"> Продукты</a>
 								</li>
 								<li>
 									<a href="all_rents.php#all" class="rents_count_block"><!--<span class="rents_count">137</span>--> ВСЕ</a>

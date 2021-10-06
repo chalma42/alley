@@ -77,7 +77,10 @@
 								<input class="filter" data-filter=".radio1" type="radio" name="radioButton" id="radio1" >
 								<label class="radio-label shops category_name" for="radio1">Магазины</label>
 							</li>
-	
+							<li>
+								<input class="filter" data-filter=".radio5" type="radio" name="radioButton" id="radio5" >
+								<label class="radio-label products category_name" for="radio5">Продукты</label>
+							</li>
 							<li>
 								<input class="filter" data-filter=".radio2" type="radio" name="radioButton" id="radio2" >
 								<label class="radio-label cafe category_name" for="radio2">Кафе</label>
@@ -96,23 +99,6 @@
 					</form>
 				</div>
 				<div class="all_rents_page_items flex cd-gallery">
-					<!--<section class="cd-gallery">
-						<ul>
-							<li class="mix radio2 "><img src="img/img-1.jpg" alt="Image 1"></li>
-							<li class="mix radio2 "><img src="img/img-2.jpg" alt="Image 2"></li>
-							<li class="mix radio3 "><img src="img/img-3.jpg" alt="Image 3"></li>
-							<li class="mix radio2 "><img src="img/img-4.jpg" alt="Image 4"></li>
-							<li class="mix radio3 "><img src="img/img-5.jpg" alt="Image 5"></li>
-							<li class="mix radio3 "><img src="img/img-6.jpg" alt="Image 6"></li>
-							<li class="mix radio2 "><img src="img/img-7.jpg" alt="Image 7"></li>
-							<li class="mix radio3 "><img src="img/img-8.jpg" alt="Image 8"></li>
-							<li class="mix radio2 "><img src="img/img-9.jpg" alt="Image 9"></li>
-							<li class="mix radio2 "><img src="img/img-10.jpg" alt="Image 10"></li>
-							<li class="mix radio3 "><img src="img/img-11.jpg" alt="Image 11"></li>
-							<li class="mix radio3 "><img src="img/img-12.jpg" alt="Image 12"></li>
-						</ul>
-						<div class="cd-fail-message">No results found</div>
-					</section>  cd-gallery -->
 					<section class="cd-gallery" id="cd-gallery">
 						<ul>
 							<li class="mix radio4 ">
@@ -177,7 +163,7 @@
 							</li>
 							<li class="mix radio2 ">
 								<div class="all_rents_page_item">
-									<a href="#">
+									<a href="rent_CoffeeLike.php">
 										<div class="all_rents_page_item_img">
 											<img src="img/lkofe.png">
 										</div>
@@ -190,7 +176,7 @@
 												<li><img src="img/icons/rent_icon5.png"></li>
 											</ul>
 										</div>
-										<div class="all_rents_page_item_title">CoffeLike</div>
+										<div class="all_rents_page_item_title">CoffeeLike</div>
 										<div class="all_rents_page_item_desc">Кофейня</div>
 									</a>
 								</div>
@@ -237,9 +223,9 @@
 							</li>
 							<li class="mix radio1">
 								<div class="all_rents_page_item">
-									<a href="#">
+									<a href="rent-apteka.php">
 										<div class="all_rents_page_item_img">
-											<img src="img/farm_logo.png">
+											<img src="img1/farm_logo.png">
 										</div>
 										<div class="all_rents_page_item_icons">
 											<ul>
@@ -259,7 +245,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_May_be_coffe.php">
 										<div class="all_rents_page_item_img">
-											<img src="img/mkofe_logo.png">
+											<img src="img/mkofe_logo.png" >
 										</div>
 										<div class="all_rents_page_item_icons">
 											<ul>
@@ -279,7 +265,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_avakado.php">
 										<div class="all_rents_page_item_img">
-											<img src="img1/Avacado_Logo.png" width="100%">
+											<img src="img1/Avacado_Logo.png" >
 										</div>
 										<div class="all_rents_page_item_icons">
 											<ul>
@@ -299,7 +285,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_BaskinRobbins.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/BaskinRobbins_Logo.png" width="100%">
+										<img src="img1/BaskinRobbins_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -315,11 +301,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_Belorus.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Belorus_Logo.png" width="100%">
+										<img src="img1/Belorus_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -359,7 +345,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Burbon.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Burbon_Logo.png" width="100%">
+										<img src="img1/Burbon_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -379,7 +365,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Burger.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Burger_Logo.png" width="100%">
+										<img src="img1/Burger_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -394,13 +380,12 @@
 									<div class="all_rents_page_item_desc">Бургерная</div>
 									</a>
 								</div>
-							</li>
-							
+							</li>	
 							<li class="mix radio1">
 								<div class="all_rents_page_item">
 									<a href="rent_children_land.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/ChildrenLand_logo.png" width="100%">
+										<img src="img1/ChildrenLand_logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -420,7 +405,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_CoffeeRum.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/CoffeeRum_Logo.png" width="100%">
+										<img src="img1/CoffeeRum_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -436,7 +421,7 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio2">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_CraftBear.php">
 									<div class="all_rents_page_item_img">
@@ -476,11 +461,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_CreemAndJame.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/CAJ_Logo.png" width="100%">
+										<img src="img1/CAJ_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -500,7 +485,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_detaly.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Detaly_Logo.png" width="100%">
+										<img src="img1/Detaly_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -520,7 +505,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Duduk.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Duduk_Logo.png" width="100%">
+										<img src="img1/Duduk_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -536,7 +521,7 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_Ekleshu.php">
 									<div class="all_rents_page_item_img">
@@ -560,7 +545,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_FourEyes.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/FourEyes_Logo.png" width="100%">
+										<img src="img1/FourEyes_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -576,11 +561,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_GoldCaw.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/GoldCaw_Logo.png" width="100%">
+										<img src="img1/GoldCaw_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -600,7 +585,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_GoldRussia.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/GoldRussia_Logo.png" width="100%">
+										<img src="img1/GoldRussia_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -616,11 +601,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_GoodDay.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/GoodDay_Logo.png" width="100%">
+										<img src="img1/GoodDay_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -640,7 +625,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_GrillHouse.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/GrillHouse_Logo.png" width="100%">
+										<img src="img1/GrillHouse_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -656,11 +641,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_hanan.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Hanan_Logo.png" width="100%">
+										<img src="img1/Hanan_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -676,11 +661,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio2">
 								<div class="all_rents_page_item">
 									<a href="rent_JapenDoneks.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Doneks_Logo.png" width="100%">
+										<img src="img1/Doneks_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -700,7 +685,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_KannamChicken.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/KannamChicken_Logo.png" width="100%">
+										<img src="img1/KannamChicken_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -716,11 +701,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio4">
 								<div class="all_rents_page_item">
 									<a href="rent_KiaraFleur.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Kiara Fleur_Logo.png" width="100%">
+										<img src="img1/Kiara-Fleur_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -740,7 +725,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Kochevnick.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Kochevnick_logo.png" width="100%">
+										<img src="img1/Kochevnick_logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -760,7 +745,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_LaPima.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/LaPrima_Logo.png" width="100%">
+										<img src="img1/LaPrima_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -780,7 +765,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_liberty.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Liberty_Logo.png" width="100%">
+										<img src="img1/Liberty_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -800,7 +785,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_LetCosmetic.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/LetCosmetic_Logo.png" width="100%">
+										<img src="img1/LetCosmetic_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -820,7 +805,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_megaphone.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Megaphone_Logo.png" width="100%">
+										<img src="img1/Megaphone_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -856,11 +841,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_MrSabai.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/MrSabai_Logo.png" width="100%">
+										<img src="img1/MrSabai_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -880,7 +865,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_mVideo.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Mvideo_Logo.png" width="100%">
+										<img src="img1/Mvideo_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -896,11 +881,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio2">
 								<div class="all_rents_page_item">
 									<a href="rent_Palermo.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Palermo_Logo.png" width="100%">
+										<img src="img1/Palermo_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -920,7 +905,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Pokehouse.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/PokeHouse_Logo.png" width="100%">
+										<img src="img1/PokeHouse_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -936,11 +921,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_ProductVietnam.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Chines_Logo.png" width="100%">
+										<img src="img1/Chines_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -960,7 +945,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_RollingRoll.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/RollingRoll_Logo.png" width="100%">
+										<img src="img1/RollingRoll_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -976,11 +961,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_SahalinSeaProduct.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/LandSahalin_Logo.png" width="100%">
+										<img src="img1/LandSahalin_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -996,11 +981,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_SahalinSweet.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/SahalinSweet_Logo.png" width="100%">
+										<img src="img1/SahalinSweet_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1020,7 +1005,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Sberbank.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Sberbank_Logo.png" width="100%">
+										<img src="img1/Sberbank_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1040,7 +1025,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_StaffBar.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/StaffBar_Logo.png" width="100%">
+										<img src="img1/StaffBar_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1060,7 +1045,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Storya.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Storya_Logo.png" width="100%">
+										<img src="img1/Storya_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1080,7 +1065,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Subway.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Subway_Logo.png" width="100%">
+										<img src="img1/Subway_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1096,11 +1081,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_SweetMeet.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/SweetMeet_Logo.png" width="100%">
+										<img src="img1/SweetMeet_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1116,11 +1101,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio5">
 								<div class="all_rents_page_item">
 									<a href="rent_Talga.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Talga_Logo.png" width="100%">
+										<img src="img1/Talga_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1140,7 +1125,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_Tanuki.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/Tanuki_Logo.png" width="100%">
+										<img src="img1/Tanuki_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1160,7 +1145,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_uviland.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/uviland_logo.png" width="100%">
+										<img src="img1/uviland_logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1176,11 +1161,11 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio2">
 								<div class="all_rents_page_item">
 									<a href="rent_VinoFriday.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/VinoFriday_Logo.png" width="100%">
+										<img src="img1/VinoFriday_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1216,7 +1201,7 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio1">
+							<li class="mix radio4">
 								<div class="all_rents_page_item">
 									<a href="rent_XOne.php">
 									<div class="all_rents_page_item_img">
@@ -1240,7 +1225,7 @@
 								<div class="all_rents_page_item">
 									<a href="rent_YumiBar.php">
 									<div class="all_rents_page_item_img">
-										<img src="img1/YumiBar_Logo.png" width="100%">
+										<img src="img1/YumiBar_Logo.png" >
 									</div>
 									<div class="all_rents_page_item_icons">
 										<ul>
@@ -1253,26 +1238,6 @@
 									</div>
 									<div class="all_rents_page_item_title">YUMI BAR</div>
 									<div class="all_rents_page_item_desc">Мороженое</div>
-									</a>
-								</div>
-							</li>
-							<li class="mix radio1">
-								<div class="all_rents_page_item alizarin">
-									<a href="rent-apteka.php">
-									<div class="all_rents_page_item_img">
-										<img src="img1/LogoApteka.png" >
-									</div>
-									<div class="all_rents_page_item_icons">
-										<ul>
-											<li><img src="img/icons/rent_icon1.png"></li>
-											<li><img src="img/icons/rent_icon2.png"></li>
-											<li><img src="img/icons/rent_icon3.png"></li>
-											<li><img src="img/icons/rent_icon4.png"></li>
-											<li><img src="img/icons/rent_icon5.png"></li>
-										</ul>
-									</div>
-									<div class="all_rents_page_item_title">Аптека</div>
-									<div class="all_rents_page_item_desc">Аптека</div>
 									</a>
 								</div>
 							</li>
@@ -1376,7 +1341,7 @@
 									</a>
 								</div>
 							</li>
-							<li class="mix radio2">
+							<li class="mix radio1">
 								<div class="all_rents_page_item">
 									<a href="rent-simost.php">
 									<div class="all_rents_page_item_img">

@@ -47,7 +47,7 @@
 									<img src="img/poster1.png">
 								</div>
 								<div class="poster_main_item_bottom">
-									<div class="poster_main_item_time">16.09.2021 16:00</div>
+									<div class="poster_main_item_time">29.12.2021 16:00</div>
 								</div>
 							</div>
 						

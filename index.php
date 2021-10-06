@@ -319,40 +319,32 @@
 						</div>
 					</div>
 
-					<div class="links flex">
-						<a href="alley.php">ТРЦ Аллея</a>
-						<a href="poster.php">Афиша</a>
-						<a href="rent_page.php">Аренда</a>
-						<a href="advertising.php">Реклама в ТРЦ</a>
-						<a href="scheme.php">Схема ТРЦ</a>
-						<a href="contacts.php">Контакты</a>
-					</div>
 				</div>
 			</div>
 		</div>
 		<div class="container trc_links" >
 			<div class="flex">
-				<a class="trc_link" href="#">
+				<a class="trc_link" href="alley.php">
 					<img src="img/icons/trc-icon.png" >
 					<span>ТРЦ Аллея</span>
 				</a>
-				<a class="trc_link" href="#">
+				<a class="trc_link" href="poster.php">
 					<img src="img/icons/trc-icon2.png" >
 					<span>Афиша</span>
 				</a>
-				<a class="trc_link" href="#">
+				<a class="trc_link" href="rent_page.php">
 					<img src="img/icons/trc-icon3.png" >
 					<span>Аренда</span>
 				</a>
-				<a class="trc_link" href="#">
+				<a class="trc_link" href="advertising.php">
 					<img src="img/icons/trc-icon4.png" >
 					<span>Реклама в ТРЦ</span>
 				</a>
-				<a class="trc_link" href="#">
+				<a class="trc_link" href="scheme.php">
 					<img src="img/icons/trc-icon5.png" >
 					<span>Схема ТРЦ</span>
 				</a>
-				<a class="trc_link" href="#">
+				<a class="trc_link" href="contacts.php">
 					<img src="img/icons/trc-icon6.png" >
 					<span>Контакты</span>
 				</a>
@@ -495,7 +487,7 @@
 			</div>
 			<div class="buttons_after_list">
 						<a href="rent_page.php#foodcort">Условия аренды</a>
-						<a href="rent.php" class="active">Узнать подробнее</a>
+						<a href="alley.php" class="active">Узнать подробнее</a>
 			</div>
 		</div>
 	</section>

@@ -21,7 +21,7 @@
     <script type="text/javascript" src="js/inputmask.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 
-    <title></title>
+    <title>Cofee Like</title>
 </head>
 
 <body>
@@ -36,7 +36,7 @@
             <ul>
                 <li><a href="/">Главная</a></li>
                 <li><a href="all_rents.php">Все арендаторы</a></li>
-                <li><a href="#">Авокадо</a></li>
+                <li><a href="#">Cofee Like</a></li>
             </ul>
         </div>
     </section>
@@ -47,10 +47,10 @@
     <section class="rent_page">
         <div class="rent_page_main">
             <div class="container _anim-items _anim-no-hide">
-                <img src="img1/Avacado_back.png">
+                <img src="img1/coffeelike_back.jpg">
                 <!--Главная фотка-->
                 <div class="rent_page_logo">
-                    <img src="img1/Avacado_Logo.png">
+                    <img src="img/lkofe.png">
                     <!--Логотип-->
                 </div>
             </div>
@@ -58,32 +58,19 @@
         <div class="container">
             <div class="rent_page_wrapper _anim-items flex">
                 <div class="rent_page_desc">
-                    <h1 class="rent_page_title">Авокадо</h1>
-                    <p>Сеть магазинов нижнего белья "Авокадо" с 2010 года радует покупателей многообразием выбора и качества. Авокадо - это нижнее белье, в котором каждая женщина будет себя чувствовать увереннее и соблазнительнее. А огромный ассортимент
-                        и демократичные цены приятно удивят. В магазинах "Авокадо" работают настоящие профессионалы, которые сэкономят время и подберут белье под нужные размеры и формы.
+                    <h1 class="rent_page_title">СOFFEE LIKE сеть кофе-баров в России и странах СНГ</h1>
+                    <p>
+                    Международная сеть кофе-баров, №1 на рынке кофе с собой в России и СНГ. Очень вкусный кофе с разными добавками (которые можно выбрать самостоятельно), по пути на автобусную остановку можно прихватить стаканчик и пить в автобусе. Работаем также под заказ
                     </p>
-                    <p>В магазинах "Авокадо" представлен большой выбор:</p>
-                    <ul>
-                        <li>- Коллекции белья по самым модным тенденциям;</li>
-                        <li>- Комплекты и бюстгальтера на каждый день, все для удобства и комфорта;</li>
-                        <li>- Комплекты для пышной груди;</li>
-                        <li>- Коллекция одежды для дома, от хлопка и вискозы до атласа и кружева;</li>
-                        <li>- Топы и бюстгальтеры для кормящих мамочек;</li>
-                        <li>- Колготки и чулки на все случаи жизни;</li>
-                        <li>- Линия эротического белья;</li>
-                        <li>- Коллекция для невест;</li>
-                        <li>- Коллекция для мужчин.</li>
-                    </ul>
                 </div>
                 <div class="rent_page_contacts">
                     <div class="rent_page_title">Контакты</div>
-                    <p class="address">ТЦ “Аллея” г. Южно-Сахалинск, ул. Фархутдинова 3</p>
-                    <p class="phone">8(4242)29-69-79</p>
+                    <p class="address">ТЦ “Аллея” г. Южно-Сахалинск, ул. Фархутдинова 3, 2 этаж</p>
+                    <p class="phone">+7(924)286-73-85</p>
                     <p class="time">с 10:00 до 21:00</p>
                 </div>
             </div>
 
-            <br>
             <br>
             <div class="rent_page_poster _anim-items">
                 <div class="rent_page_poster_title">

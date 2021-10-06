@@ -18,6 +18,11 @@ jQuery(document).ready(function($){
 			let elem = document.querySelector(".shops");
 			elem.classList.add('line');
 			break;
+		case 'products':
+			parameter = '.radio5';
+			let elem6 = document.querySelector(".products");
+			elem6.classList.add('line');
+			break;
 		case 'cafe':
 			parameter = '.radio2';
 			let elem2 = document.querySelector(".cafe");

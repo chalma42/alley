@@ -459,6 +459,23 @@ $(document).ready(function(){
 	    }
 	})
 
+	$('#popup-guestCard').dialog({
+	    autoOpen: false,
+	    modal: true,
+	    resizable: false,
+	    draggable: false,
+	    width: 484,
+	    show: { effect: "fade", duration: 400 },
+	    hide: { effect: "fade", duration: 400 },
+	    dialogClass: '',
+	    title: '',
+	    open: function(event, ui) {
+	        $('.ui-widget-overlay').on('click', function() {
+	          $('#popup-guestCard').dialog('close');
+	        });
+	    }
+	})
+
 	$('#popup-lk').dialog({
 	    autoOpen: false,
 	    modal: true,
@@ -616,7 +633,7 @@ $(document).ready(function(){
     })
 	$('.get_card').on('click', function(e) {
 		e.preventDefault();
-        $('#popup-callback').dialog('open');
+        $('#popup-guestCard').dialog('open');
     })
 
 
@@ -725,6 +742,9 @@ $(document).ready(function(){
     	if(valid){
     		$('#popup-masterclass .title').html('Ваша заявка отправлена.<br>Спасибо.<br>Мы свяжемся с вами<br> в ближайшее время.');
     		$('#popup-masterclass form').hide();
+
+			$('#popup-guestCard .title').html('Ваша заявка отправлена.<br>Спасибо.<br>Мы свяжемся с вами<br> в ближайшее время.');
+    		$('#popup-guestCard form').hide();
 
     		$('#popup-price .title').html('Ваша заявка отправлена.<br>Спасибо.<br>Мы свяжемся с вами<br> в ближайшее время.');
     		$('#popup-price form').hide();
